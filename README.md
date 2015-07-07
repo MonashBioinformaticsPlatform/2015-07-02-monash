@@ -1,5 +1,7 @@
 # workshop-template
 
+A copy of [this repo](https://github.com/MonashBioinformaticsPlatform/15-07-swc-r)
+
 This repository is [Software Carpentry](http://software-carpentry.org)'s
 template for creating websites for workshops.
 
